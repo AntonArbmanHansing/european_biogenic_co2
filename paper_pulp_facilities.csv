@@ -1,0 +1,49 @@
+,Company,ID,Facility,CountryName,Sector,TotQ,FosQ,BioQ,BioPerc,Lat,Long
+0,"Stora Enso Oyj, Imatran tehtaat",6363,"Stora Enso Oyj, Imatran tehtaat",Finland,Manufacture of paper and paperboard,2.26,0.16,2.1,93.0,61.226000000000006,28.82041
+1,Zellstoff Stendal GmbH,46977,Zellstoff Stendal GmbH,Germany,Manufacture of pulp,1.95,0.0768,1.8732,96.0,52.690618245100005,11.9858983281
+2,"UPM KYMMENE OYJ, UPM, Pietarsaari",7265,"UPM KYMMENE OYJ, UPM, Pietarsaari",Finland,Manufacture of pulp,1.88,0.00331,1.87669,100.0,63.71706999999999,22.71153
+3,Södra Cell AB,5099,Södra Cell Mönsterås,Sweden,Manufacture of pulp,1.87,0.0151,1.8549,99.0,57.09152546,16.55049128
+4,STORA ENSO PULP AB,482,Skutskärs Bruk,Sweden,Manufacture of pulp,1.81,0.00837,1.80163,100.0,60.64364568,17.38985017
+5,"Metsä Fibre Oy, Joutsenon tehdas",6384,"Metsä Fibre Oy, Joutsenon tehdas",Finland,Manufacture of pulp,1.66,0.0392,1.6208,98.0,61.13159,28.456809999999997
+6,"STORA ENSO OYJ, ENOCELLIN TEHDAS",6085,"STORA ENSO OYJ, ENOCELLIN TEHDAS",Finland,Manufacture of pulp,1.66,0.0408,1.6192,98.0,62.9227,30.2216
+7,Metsä Board Sverige AB,7924,"Metsä Board Sverige AB, Husums fabr",Sweden,Manufacture of paper and paperboard,1.6,0.0544,1.5456,97.0,63.32792368,19.16005724
+8,"UPM-Kymmene Oyj, Kymi",6919,"UPM-Kymmene Oyj, Kymi",Finland,Manufacture of paper and paperboard,1.57,0.102,1.468,94.0,60.9068,26.6663
+9,Metsä Fibre Oy Kemi,6592,Metsä Fibre Oy Kemi,Finland,Manufacture of pulp,1.57,0.061,1.509,96.0,65.75591999999999,24.521810000000002
+10,"UPM-Kymmene Oyj, Kaukaan tehtaat",6954,"UPM-Kymmene Oyj, Kaukaan tehtaat",Finland,Manufacture of paper and paperboard,1.42,0.0799,1.3401,94.0,61.06576,28.24754
+11,"STORA ENSO OYJ, Oulun tehdas, Oulu",7199,"STORA ENSO OYJ, Oulun tehdas, Oulu",Finland,Manufacture of paper and paperboard,1.37,0.26,1.11,81.0,65.00584,25.43488
+12,"Metsä Fibre Oy, Rauman tehdas",7382,"Metsä Fibre Oy, Rauman tehdas",Finland,Manufacture of pulp,1.34,0.139,1.201,90.0,61.11079,21.46695
+13,BillerudKorsnäs Sweden AB Gruvöns Bruk,7189,Gruvöns bruk,Sweden,Manufacture of paper and paperboard,1.32,0.0188,1.3012,99.0,59.33826572,13.12154172
+14,BillerudKorsnäs Skog & Industri Aktiebolag,7756,Korsnäsverken,Sweden,Manufacture of paper and paperboard,1.24,0.00244,1.23756,100.0,60.68240441,17.27333698
+15,SCA Graphic Sundsvall AB,7891,SCA Östrands massafabrik,Sweden,Manufacture of pulp,1.19,0.0176,1.1724,99.0,62.47530374,17.32897413
+16,Smurfit Kappa Kraftliner Piteå AB,8235,Smurfit Kappa Kraftliner Piteå,Sweden,Manufacture of paper and paperboard,1.15,0.0104,1.1396,99.0,65.31475314,21.44038572
+17,Södra Cell AB,6649,Södra Cell Värö,Sweden,Manufacture of pulp,1.14,0.0047,1.1353,100.0,57.22166666,12.17192747
+18,Södra Cell AB,6001,Södra Cell Mörrum,Sweden,Manufacture of pulp,1.12,0.0283,1.0917,97.0,56.16098092,14.76467857
+19,"Metsä Fibre Oy, Äänekosken sellutehdas",7866,"Metsä Fibre Oy, Äänekosken sellutehdas",Finland,Manufacture of pulp,1.07,0.0668,1.0032,94.0,62.59765,25.73963
+20,Mondi ttí a.s.,9281,celulozka,Czech Republic,Manufacture of paper and paperboard,0.99,0.057,0.933,94.0,50.4611853611,14.3748144889
+21,BillerudKorsnäs Sweden AB,1240,BillerudKorsnäs Sweden AB Skärblacka Bruk,Sweden,Manufacture of paper and paperboard,0.978,0.0117,0.9663,99.0,58.57980097,15.89974012
+22,Stora Enso Skoghall AB,7184,Skoghalls Bruk,Sweden,Manufacture of paper and paperboard,0.959,0.0535,0.9055,94.0,59.31835168,13.43760246
+23,"Stora Enso Oyj, Sunilan tehdas",6709,"Stora Enso Oyj, Sunilan tehdas",Finland,Manufacture of pulp,0.893,0.0427,0.8503,95.0,60.48876,26.950409999999998
+24,Stora Enso Oyj Veitsiluodon tehdas,6594,Stora Enso Oyj Veitsiluodon tehdas,Finland,Manufacture of paper and paperboard,0.851,0.0458,0.8052,95.0,65.69355999999999,24.62075
+25,Iggesund Paperboard AB,7771,Iggesunds Bruk,Sweden,Manufacture of paper and paperboard,0.851,0.0181,0.8329,98.0,61.63863899,17.09808643
+26,BillerudKorsnäs Sweden AB Karlsborg Bruk,8155,BillerudKorsnäs Karlsborgs AB,Sweden,Manufacture of paper and paperboard,0.819,0.00809,0.81091,99.0,65.79194132,23.28768535
+27,BillerudKorsnäs Skog & Industri AB,7326,"BillerudKorsnäs Skog & Industri AB, Frövi",Sweden,Manufacture of paper and paperboard,0.754,0.00794,0.74606,99.0,59.47975587,15.32873919
+28,SCA Munksund AB,8236,SCA Munksund,Sweden,Manufacture of paper and paperboard,0.683,0.0227,0.6603,97.0,65.27232862,21.50387968
+29,"Stora Enso Oyj, Varkauden tehtaat",7249,"Stora Enso Oyj, Varkauden tehtaat",Finland,Manufacture of pulp,0.62,0.0671,0.5529,89.0,62.317769999999996,27.89775
+30,Vallviks Bruk,7764,Vallviks Bruk,Sweden,Manufacture of pulp,0.619,0.00529,0.61371,99.0,61.18824933,17.18280888
+31,Mondi Dynäs AB,7919,Mondi Dynäs AB,Sweden,Manufacture of paper and paperboard,0.574,0.00884,0.56516,98.0,62.97420348,17.72348696
+0,Framondi N.V. z siedzib w Holandii,21752,Mondi wiecie S.A.,Poland,Manufacture of paper and paperboard,1.84,,1.84,,53.398541,18.397101
+1,"Portucel, S.A.",5476,Complexo Industrial de Setúbal da Portucel,Portugal,Manufacture of pulp,1.41,,1.36,,38.4933,-8.80816
+2,CELULOSAS DE ASTURIAS S.A.,8866,CEASA ENCE- FÁBRICA DE NAVIA,Spain,Manufacture of pulp,1.33,,1.24,,43.541109999999996,-6.721139999999999
+3,Burgo Ardennes,15088,BURGO ARDENNES sa,Belgium,Manufacture of pulp,1.07,,0.94,,49.5499,5.5042
+4,"Celulose Beira Industrial (Celbi), S.A",5368,"Celulose Beira Industrial (Celbi), S.A.",Portugal,Manufacture of pulp,1.04,,0.97,,40.053571000000005,-8.873595
+5,"SOPORCEL - Sociedade Portuguesa de Papel, S.A.",5410,"SOPORCEL- Sociedade Portuguesa de Papel, (Instalação)",Portugal,Manufacture of paper and paperboard,1.03,,0.94,,40.0588,-8.856639999999999
+6,FIBRE EXCELLENCE Saint-Gaudens,4618,FIBRE EXCELLENCE Saint-Gaudens,France,Manufacture of pulp,0.925,,0.89,,43.12,0.73
+7,Fibre Excellence Tarascon,4250,Fibre Excellence Tarascon,France,Manufacture of pulp,0.839,,0.79,,43.79,4.68
+8,CELCACIA - Celulose de Cacia SA,5388,Fábrica de Cacia (Portucel),Portugal,Manufacture of pulp,0.789,,0.79,,40.6846,-8.58976
+9,Stora Enso Nymölla AB,6391,STORA ENSO NYMÖLLA AB,Sweden,Manufacture of paper and paperboard,0.7,,0.67,,56.04379387,14.47984532
+10,"CELTEJO - Empresa de Celulose do Tejo, S. A.",5392,"CELTEJO,Empresa de Celulose do Tejo,S.A.",Portugal,Manufacture of pulp,0.681,,0.63,,39.6615,-7.669789999999999
+11,STORA ENSO LANGERBRUGGE,14634,STORA ENSO LANGERBRUGGE,Belgium,Manufacture of paper and paperboard,0.653,,0.54,,51.107063000000004,3.7326386
+12,Heinzel AG,65062,Zellstoff Pöls Aktiengesellschaft,Austria,Manufacture of paper and paperboard,0.583,,0.53,,47.2175,14.590389000000002
+13,"Europa&c Kraft Viana, SA",5389,Europa&c Kraft Viana,Portugal,Manufacture of paper and paperboard,0.559,,0.53,,41.7037,-8.7124
+14,Holmen UK Limited,13111,Workington Boardmill,United Kingdom,Manufacture of paper and paperboard,0.556,,0.56,,54.6669,-3.54578
+15,MONDI STAMBOLIYSKI,65916,MONDI STAMBOLIYSKI EAD,Bulgaria,Manufacture of paper and paperboard,0.53,,0.51,,42.134639,24.522257999999997
